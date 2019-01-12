@@ -8,8 +8,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-<img src= "https://raw.githubusercontent.com/keehansullivan2/SeanSullivan/master/UNADJUSTEDNONRAW_thumb_d73.jpg" width= "250" height="200">
-
 ```markdown
 Syntax highlighted code block
 
