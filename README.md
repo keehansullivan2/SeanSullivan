@@ -12,7 +12,7 @@ University of California Berkeley 2014-2018.
 
   Major: Applied Mathematics (Emphasis in Computer Science)
   
-    Minors: Computer Science, [Calteach](http://calteach.berkeley.edu/)
+  Minors: Computer Science, [Calteach](http://calteach.berkeley.edu/)
 
 ```markdown
 Syntax highlighted code block
