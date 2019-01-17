@@ -9,7 +9,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Education
 
 University of California Berkeley 2014-2018. 
+
   Major: Applied Mathematics (Emphasis in Computer Science)
+  
     Minors: Computer Science, [Calteach](http://calteach.berkeley.edu/)
 
 ```markdown
