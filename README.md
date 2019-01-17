@@ -1,12 +1,16 @@
-## Welcome to GitHub Pages
+## Hello! My name is Sean Sullivan here is a little bit about myself! 
+
+website is located at: https://keehansullivan2.github.io/SeanSullivan/
 
 You can use the [editor on GitHub](https://github.com/keehansullivan2/SeanSullivanWebsite/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+University of California Berkeley 2014-2018. 
+  Major: Applied Mathematics (Emphasis in Computer Science)
+    Minors: Computer Science, [Calteach](http://calteach.berkeley.edu/)
 
 ```markdown
 Syntax highlighted code block
